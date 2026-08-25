@@ -16,7 +16,7 @@ matplotlib 可视化绘图
 scikit‑learn 机器学习模型
 
 4.安装方法
-git clone https://github.com/zhangshuhan546‑glitch/Engine-Health-Analysis.git
+git clone https://github.com/zhangshuhan546‑glitch/Engine-Health-Analysis
 cd Engine-Health-Analysis
 pip install -r requirements.txt
 python analysis.py

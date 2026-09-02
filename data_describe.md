@@ -1,9 +1,8 @@
-CMAPAA FD001 数据说明
+C-MAPSS FD001 数据说明
 
 数据来源
 
-NASA CAMPSS 飞机发动机退化仿真数据
-
+NASA C-MAPSS 飞机发动机退化仿真数据 train_FD001.txt
 
 
 数据规模
@@ -13,7 +12,6 @@ NASA CAMPSS 飞机发动机退化仿真数据
 100台训练发动机
 
 单一工况 单一故障模式
-
 
 
 列说明
